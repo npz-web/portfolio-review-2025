@@ -75,3 +75,7 @@ iframe {
     border-radius: 9px;
     width: 100%;
 }
+
+#register iframe {
+    min-height: 620px;
+}
